@@ -5,7 +5,7 @@
   display: flex;
   justify-content: center;
   align-items: center;
-  height: 800px;
+  height: 750px;
 }
 .buttons {
   display: flex;
@@ -29,5 +29,6 @@ button {
   position: relative;
 }
 .youtube {
-  margin-top: 2000rem;
+  font-family: sans-serif;
+  color: blue;
 }

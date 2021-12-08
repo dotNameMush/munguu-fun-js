@@ -5,6 +5,6 @@ function no(){
     document.getElementById('no').style.right = changeposx + 'px';
 }
 function yes(){
-    document.getElementById('h1').innerHTML = "I thought so!😂😂😂";
-    
+    document.getElementById('h1').innerHTML = "Мэдсиймаа!!😂😂😂";
+
 }
