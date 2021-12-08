@@ -6,4 +6,5 @@ function no(){
 }
 function yes(){
     document.getElementById('h1').innerHTML = "I thought so!😂😂😂";
+    
 }
