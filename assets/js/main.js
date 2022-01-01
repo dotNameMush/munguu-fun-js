@@ -6,5 +6,5 @@ function no(){
 }
 function yes(){
     document.getElementById('h1').innerHTML = "Мэдсиймаа!!😂😂😂";
-
+    
 }
